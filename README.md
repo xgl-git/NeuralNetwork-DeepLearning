@@ -47,7 +47,7 @@
 pip install numpy scikit-learn matplotlib
 ```
 ##📁 数据准备
-请从 CIFAR-10 官网 下载 cifar-10-python.tar.gz (https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)，解压后放置到项目根目录，解压结果如下：
+请从 CIFAR-10 官网 下载 [cifar-10-python.tar.gz](https://www.cs.toronto.edu/~kriz/cifar.html), 解压后放置到项目根目录，解压结果如下：
 
 bash
 复制
